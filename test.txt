@@ -1,1 +1,2 @@
 This is edited on the newBranch2
+I edited this on the branch
