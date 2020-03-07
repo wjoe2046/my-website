@@ -1,3 +1,3 @@
 # my-website
 
-learning how to rebase
+I am going to create a conflict 
