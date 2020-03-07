@@ -1,5 +1,3 @@
 # my-website
 
-Test to branch out locally.
-
-More changes to read me
+learning how to rebase
